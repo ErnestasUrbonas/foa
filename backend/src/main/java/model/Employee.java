@@ -32,4 +32,21 @@ public class Employee {
 	
 	@Column(name = "email_id")
 	private String emailId;
+
+	public void setFirstName(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	public void setLastName(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void setEmailId(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
+
 }
